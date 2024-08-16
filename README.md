@@ -8,16 +8,16 @@ The course covers the basics of Deep Learning, with a focus on applications.
 
 ### Lecture slides
 
-  - [Intro to Deep Learning](https://github.com/sohaib730/lectures-labs/blob/master/slides/01_intro_to_deep_learning/index.html)
-  - [Neural Networks and Backpropagation](https://github.com/sohaib730/lectures-labs/slides/02_backprop/index.html)
-  - [Embeddings and Recommender Systems](https://github.com/sohaib730/lectures-labs/slides/03_recommender_systems/index.html)
-  - [Convolutional Neural Networks for Image Classification](https://github.com/sohaib730/lectures-labs/slides/04_conv_nets/index.html)
-  - [Deep Learning for Object Detection and Image Segmentation](https://github.com/sohaib730/lectures-labs/slides/05_conv_nets_2/index.html)
-  - [Recurrent Neural Networks and NLP](https://github.com/sohaib730/lectures-labs/slides/06_deep_nlp/index.html)
-  - [Sequence to sequence, attention and memory](https://github.com/sohaib730/lectures-labs/slides/07_deep_nlp_2/index.html)
-  - [Expressivity, Optimization and Generalization](https://github.com/sohaib730/lectures-labs/slides/08_expressivity_optimization_generalization/index.html)
-  - [Imbalanced classification and metric learning](https://github.com/sohaib730/lectures-labs/slides/09_imbalanced_classif_metric_learning/index.html)
-  - [Unsupervised Deep Learning and Generative models](https://github.com/sohaib730/lectures-labs/slides/10_unsupervised_generative_models/index.html)
+  - [Intro to Deep Learning](https://sohaib730.github.io/lectures-labs/slides/01_intro_to_deep_learning/index.html#1)
+  - [Neural Networks and Backpropagation](https://sohaib730.github.io/lectures-labs/slides/02_backprop/index.html)
+  - [Embeddings and Recommender Systems](https://sohaib730.github.io/lectures-labs/slides/03_recommender_systems/index.html)
+  - [Convolutional Neural Networks for Image Classification](https://sohaib730.github.io/lectures-labs/slides/04_conv_nets/index.html)
+  - [Deep Learning for Object Detection and Image Segmentation](https://sohaib730.github.io/lectures-labs/slides/05_conv_nets_2/index.html)
+  - [Recurrent Neural Networks and NLP](https://sohaib730.github.io/lectures-labs/slides/06_deep_nlp/index.html)
+  - [Sequence to sequence, attention and memory](https://sohaib730.github.io/lectures-labs/slides/07_deep_nlp_2/index.html)
+  - [Expressivity, Optimization and Generalization](https://sohaib730.github.io/lectures-labs/slides/08_expressivity_optimization_generalization/index.html)
+  - [Imbalanced classification and metric learning](https://sohaib730.github.io/lectures-labs/slides/09_imbalanced_classif_metric_learning/index.html)
+  - [Unsupervised Deep Learning and Generative models](https://sohaib730.github.io/lectures-labs/slides/10_unsupervised_generative_models/index.html)
 
 Note: press "P" to display the presenter's notes that include some comments and
 additional references.
