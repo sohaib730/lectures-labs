@@ -4,7 +4,6 @@
   <img src="https://mybinder.org/badge.svg" />
 </a>
 
-This course is being taught at as part of [Master Year 2 Data Science IP-Paris](https://www.ip-paris.fr/education/masters/mention-mathematiques-appliquees-statistiques/master-year-2-data-science)
 
 ## Table of contents
 
